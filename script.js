@@ -1,3 +1,4 @@
+alert("this is a message");
 let highestZ = 1;
 
 class Paper {
