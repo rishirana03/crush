@@ -1,5 +1,4 @@
-alert("dil pe naa le party is more important");
-alert("made by rishi rana");
+alert("made by rishi rana \n dil pe naa le party is more important");
 let highestZ = 1;
 
 class Paper {
