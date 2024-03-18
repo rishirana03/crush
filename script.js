@@ -1,4 +1,4 @@
-alert("dil pe naa le party is more important");
+alert("dil pe naa le party /n is more important");
 let highestZ = 1;
 
 class Paper {
