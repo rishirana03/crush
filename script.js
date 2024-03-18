@@ -1,4 +1,4 @@
-alert("this is a message");
+alert("dil pe naa le party is more important");
 let highestZ = 1;
 
 class Paper {
