@@ -1,4 +1,5 @@
 alert("dil pe naa le party is more important");
+alert("made by rishi rana");
 let highestZ = 1;
 
 class Paper {
